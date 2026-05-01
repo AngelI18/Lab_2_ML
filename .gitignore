@@ -16,3 +16,6 @@ __pycache__/
 # IDE's
 .vscode/
 .idea/
+
+#venv
+.venv
